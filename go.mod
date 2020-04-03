@@ -27,3 +27,5 @@ require (
 	gopkg.in/src-d/go-git-fixtures.v3 v3.5.0
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
+
+replace github.com/sergi/go-diff v1.1.0 => github.com/r-pai/go-diff v1.1.0
