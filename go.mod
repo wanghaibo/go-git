@@ -28,4 +28,5 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
 
-replace github.com/sergi/go-diff v1.1.0 => github.com/r-pai/go-diff v1.1.0
+replace github.com/sergi/go-diff v1.1.0 => gopkg.in/r-pai/go-diff.v1 v1.1.0
+replace github.com/sergi/go-diff/diffmatchpatch v1.1.0 => gopkg.in/r-pai/go-diff/diffmatchpatch.v1 v1.1.0
